@@ -1,0 +1,8 @@
+1.simple if:it has one condition and one response
+example:Google Pay, Instagram, Netflix, AI Chatbot
+2.if-else: it has one condition and two response
+example:PhonePe, Uber, WhatsApp, Amazon
+3.elif ladder:it has more than 1 condition and more than 1 response
+example:Netflix, Zomato, AI Resume Screening, Online Learning
+4.nested if:it has one condition in another condition
+example:Face ID, AI Job Portal, Online Gaming, Smart Home
